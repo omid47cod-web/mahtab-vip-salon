@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mahtab VIP Salon</string>
+    <string name="title_activity_main">Mahtab VIP Salon</string>
+    <string name="package_name">com.mahtab.salon</string>
+    <string name="custom_url_scheme">com.mahtab.salon</string>
+</resources>
